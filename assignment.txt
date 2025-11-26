@@ -1,0 +1,10 @@
+Linux Assignment Tasks
+
+1. Build the Docker image.
+2. Run the container.
+3. Run the following commands and take screenshots:
+   - whoami
+   - uname -a
+   - ip addr show
+   - ls -la
+   - pwd
